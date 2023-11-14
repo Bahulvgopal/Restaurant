@@ -1,0 +1,105 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url('/pngtree-simple-black-background-texture-image_556939.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 4400px;
+}
+.navb{
+  color: white
+}
+.navbtn{
+  border: none;
+  text-decoration: none;
+  color: red;
+}
+.navbardp{
+  border-top: 1px solid red;
+}
+.au{
+  color: white;
+  font-weight: bold;
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 1rem;
+}
+.container{
+  margin-top: 1rem;
+  color: white;
+}
+.car{
+  height: 35rem;
+}
+.about{
+  border-top: 3px solid red;
+  border-bottom: 3px solid red;
+}
+.rev{
+  margin-top: 1rem;
+  background-color: white;
+  
+}
+ .polaroid {
+  margin-top: 2rem;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-left: 2.3rem;
+  margin-right: 2.3rem;
+  margin-bottom: 3rem;
+  padding: 1rem;
+  border-radius: 10px;
+}
+.btn{
+  background-color: white;
+  margin-left: 5.4rem;
+  font-weight: bold;
+}
+.vall{
+  text-decoration: none;
+  color: white;
+  margin-left: 7rem;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+.ras{
+  text-align: center;
+  color: white;
+  font-weight: lighter;
+  margin-top: 2rem;
+  font-size: 4rem;
+}
+.nav-item{
+  font-size: 2rem;
+  
+}
+.navi{
+  border-top: 2px solid red;
+  border-bottom: 2px solid red;
+}
+.main{
+  border-bottom: 3px solid red;
+  
+}
+
+.rqbtn{
+  border: none;
+  background-color: #2596be;
+  border-radius: 3px;
+  height: 2.5rem;
+  width: 11rem;
+  color: white;
+  font-size: 1rem;
+  margin-left: 4rem;
+  margin-top: 2rem;
+}
+.icz{
+  width: 3%;
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+.cpy{
+  text-align: center;
+  color: white;
+  margin: 6rem;
+}
